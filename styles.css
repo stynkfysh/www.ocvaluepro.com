@@ -297,12 +297,13 @@ img{max-width:100%;height:auto;display:block}
 
 /* ===== v2: visible forms + richer visuals ===== */
 .contact-form input,.contact-form select,.contact-form textarea{
-  width:100%;padding:13px 15px;border:1.5px solid #c2d6ca;border-radius:10px;font-size:1rem;
-  font-family:inherit;background:#f4f8f5;color:var(--ink);transition:.15s}
-.contact-form input::placeholder,.contact-form textarea::placeholder{color:#8aa093}
+  width:100%;padding:13px 15px;border:1.5px solid #93b3a3 !important;border-radius:10px;font-size:1rem;
+  font-family:inherit;background:#eef4f0 !important;color:var(--ink);transition:.15s;
+  box-shadow:inset 0 1px 2px rgba(20,50,40,.06)}
+.contact-form input::placeholder,.contact-form textarea::placeholder{color:#7d9488}
 .contact-form input:focus,.contact-form select:focus,.contact-form textarea:focus{
-  outline:none;border-color:var(--wine);background:#fff;box-shadow:0 0 0 3px rgba(27,77,62,.15)}
-.contact-form label{display:block;font-weight:600;font-size:.9rem;margin-bottom:6px;color:var(--wine-deep)}
+  outline:none;border-color:var(--wine) !important;background:#fff !important;box-shadow:0 0 0 3px rgba(27,77,62,.18)}
+.contact-form label{display:block;font-weight:700;font-size:.9rem;margin-bottom:6px;color:var(--wine-deep)}
 .contact-form select{appearance:none;-webkit-appearance:none;
   background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='%231b4d3e' stroke-width='2'><path d='M6 9l6 6 6-6'/></svg>");
   background-repeat:no-repeat;background-position:right 14px center;padding-right:40px}

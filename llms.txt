@@ -1,0 +1,61 @@
+# OC Value Pro — Orange County Date-of-Death Appraisals
+
+> OC Value Pro is the Orange County, California date-of-death and estate real estate appraisal practice of Brian Ward, a California Certified Residential Real Estate Appraiser (License No. AR036053), serving the region since 2004 with 20+ years of experience and 7,000+ appraisals. It is a sister site of brianward.com. Desktop appraisals are prepared for the IRS step-up in basis (IRC §1014), Form 706 estate-tax filings, trust administration, and probate. Basic Desktop from $299; Standard Desktop from $449. Reports are USPAP- and IRS-compliant, prepared without a physical inspection, and delivered in 3–5 business days.
+
+## Core Pages
+- [Home](https://www.ocvaluepro.com/index.html): Overview of Orange County date-of-death appraisals and the step-up in basis.
+- [Why Desktop](https://www.ocvaluepro.com/why-desktop.html): Why the desktop method suits retrospective estate valuation.
+- [How It Works](https://www.ocvaluepro.com/how-it-works.html): The order-to-delivery process.
+- [Pricing](https://www.ocvaluepro.com/pricing.html): Flat-rate Basic ($299) and Standard ($449) desktop tiers.
+- [Step-Up in Basis Guide](https://www.ocvaluepro.com/step-up-in-basis.html): IRC §1014, California double step-up, and why the appraisal is the proof.
+- [FAQ](https://www.ocvaluepro.com/faq.html): Common questions on IRS acceptance, retrospective dates, and turnaround.
+- [About & Credentials](https://www.ocvaluepro.com/about.html): Appraiser credentials and scope.
+- [Service Areas](https://www.ocvaluepro.com/service-areas.html): All Orange County cities and communities served.
+- [Order Now](https://www.ocvaluepro.com/order.html): Online order form.
+- [Contact](https://www.ocvaluepro.com/contact.html): Contact form.
+
+## Orange County Areas Served
+- [Anaheim](https://www.ocvaluepro.com/areas/anaheim.html): Date-of-death appraisal in Anaheim, North Orange County.
+- [Santa Ana](https://www.ocvaluepro.com/areas/santa-ana.html): Date-of-death appraisal in Santa Ana, Central Orange County.
+- [Orange](https://www.ocvaluepro.com/areas/orange.html): Date-of-death appraisal in Orange, Central Orange County.
+- [Fullerton](https://www.ocvaluepro.com/areas/fullerton.html): Date-of-death appraisal in Fullerton, North Orange County.
+- [Garden Grove](https://www.ocvaluepro.com/areas/garden-grove.html): Date-of-death appraisal in Garden Grove, West Orange County.
+- [Westminster](https://www.ocvaluepro.com/areas/westminster.html): Date-of-death appraisal in Westminster, West Orange County.
+- [Stanton](https://www.ocvaluepro.com/areas/stanton.html): Date-of-death appraisal in Stanton, West Orange County.
+- [Buena Park](https://www.ocvaluepro.com/areas/buena-park.html): Date-of-death appraisal in Buena Park, North Orange County.
+- [Placentia](https://www.ocvaluepro.com/areas/placentia.html): Date-of-death appraisal in Placentia, North Orange County.
+- [Villa Park](https://www.ocvaluepro.com/areas/villa-park.html): Date-of-death appraisal in Villa Park, Central Orange County.
+- [Huntington Beach](https://www.ocvaluepro.com/areas/huntington-beach.html): Date-of-death appraisal in Huntington Beach, West Orange County Coastal.
+- [Costa Mesa](https://www.ocvaluepro.com/areas/costa-mesa.html): Date-of-death appraisal in Costa Mesa, Central Coastal Orange County.
+- [Fountain Valley](https://www.ocvaluepro.com/areas/fountain-valley.html): Date-of-death appraisal in Fountain Valley, West-Central Orange County.
+- [Cypress](https://www.ocvaluepro.com/areas/cypress.html): Date-of-death appraisal in Cypress, Northwest Orange County.
+- [La Palma](https://www.ocvaluepro.com/areas/la-palma.html): Date-of-death appraisal in La Palma, North Orange County.
+- [Los Alamitos](https://www.ocvaluepro.com/areas/los-alamitos.html): Date-of-death appraisal in Los Alamitos, West Orange County.
+- [Seal Beach](https://www.ocvaluepro.com/areas/seal-beach.html): Date-of-death appraisal in Seal Beach, West Orange County Coastal.
+- [Rossmoor](https://www.ocvaluepro.com/areas/rossmoor.html): Date-of-death appraisal in Rossmoor, West Orange County Enclave.
+- [Midway City](https://www.ocvaluepro.com/areas/midway-city.html): Date-of-death appraisal in Midway City, Central Orange County Enclave.
+- [La Habra](https://www.ocvaluepro.com/areas/la-habra.html): Date-of-death appraisal in La Habra, North Orange County.
+- [Irvine](https://www.ocvaluepro.com/areas/irvine.html): Date-of-death appraisal in Irvine, Central Orange County.
+- [Tustin](https://www.ocvaluepro.com/areas/tustin.html): Date-of-death appraisal in Tustin, Central Orange County.
+- [North Tustin](https://www.ocvaluepro.com/areas/north-tustin.html): Date-of-death appraisal in North Tustin, Central Orange County.
+- [Lake Forest](https://www.ocvaluepro.com/areas/lake-forest.html): Date-of-death appraisal in Lake Forest, Saddleback Valley.
+- [Mission Viejo](https://www.ocvaluepro.com/areas/mission-viejo.html): Date-of-death appraisal in Mission Viejo, Saddleback Valley.
+- [Laguna Hills](https://www.ocvaluepro.com/areas/laguna-hills.html): Date-of-death appraisal in Laguna Hills, Saddleback Valley.
+- [Laguna Woods](https://www.ocvaluepro.com/areas/laguna-woods.html): Date-of-death appraisal in Laguna Woods, Saddleback Valley.
+- [Aliso Viejo](https://www.ocvaluepro.com/areas/aliso-viejo.html): Date-of-death appraisal in Aliso Viejo, South Orange County.
+- [Laguna Niguel](https://www.ocvaluepro.com/areas/laguna-niguel.html): Date-of-death appraisal in Laguna Niguel, South Orange County.
+- [Brea](https://www.ocvaluepro.com/areas/brea.html): Date-of-death appraisal in Brea, North Orange County.
+- [Newport Beach](https://www.ocvaluepro.com/areas/newport-beach.html): Date-of-death appraisal in Newport Beach, South Orange County Coastal.
+- [Laguna Beach](https://www.ocvaluepro.com/areas/laguna-beach.html): Date-of-death appraisal in Laguna Beach, South Orange County Coastal.
+- [Dana Point](https://www.ocvaluepro.com/areas/dana-point.html): Date-of-death appraisal in Dana Point, South Orange County Coastal.
+- [San Clemente](https://www.ocvaluepro.com/areas/san-clemente.html): Date-of-death appraisal in San Clemente, South Orange County Coastal.
+- [San Juan Capistrano](https://www.ocvaluepro.com/areas/san-juan-capistrano.html): Date-of-death appraisal in San Juan Capistrano, South Orange County.
+- [Rancho Santa Margarita](https://www.ocvaluepro.com/areas/rancho-santa-margarita.html): Date-of-death appraisal in Rancho Santa Margarita, Saddleback Valley Master-Planned.
+- [Ladera Ranch](https://www.ocvaluepro.com/areas/ladera-ranch.html): Date-of-death appraisal in Ladera Ranch, South County Master-Planned.
+- [Coto de Caza](https://www.ocvaluepro.com/areas/coto-de-caza.html): Date-of-death appraisal in Coto de Caza, South County Guard-Gated.
+- [Las Flores](https://www.ocvaluepro.com/areas/las-flores.html): Date-of-death appraisal in Las Flores, South County Master-Planned.
+- [Yorba Linda](https://www.ocvaluepro.com/areas/yorba-linda.html): Date-of-death appraisal in Yorba Linda, North Orange County.
+
+## Notes
+- Parent practice: brianward.com (San Diego & Riverside Counties).
+- This site does not publish fabricated testimonials.

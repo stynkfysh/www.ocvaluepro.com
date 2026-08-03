@@ -141,7 +141,15 @@
       <li><span class="ic sm"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 3v18M7 21h10M6 7h12l-3 6a3 3 0 01-6 0z" fill="none" stroke="currentColor" stroke-width="1.6"/></svg></span> Prepared by a California Certified Residential Appraiser (Lic. AR036053)</li>
     </ul>
   </div>
-  <div class="form-card"><form class="contact-form" action="https://www.brianward.com/api/contact" method="post">
+  <div class="form-card"><div id="form-success" style="display:none;background:#e8f5e9;border:1px solid #4caf50;padding:14px 18px;border-radius:4px;margin-bottom:18px;color:#2e7d32;">
+      <strong>Thank you &mdash; your request was sent.</strong><br>
+      We&rsquo;ve emailed you a confirmation. Brian will get back to you within 24 business hours.
+    </div>
+    <div id="form-error" style="display:none;background:#fbe9e7;border:1px solid #d32f2f;padding:14px 18px;border-radius:4px;margin-bottom:18px;color:#c62828;">
+      <strong>Sorry &mdash; your request could not be sent.</strong><br>
+      Please try again, or email <a href="mailto:brian@brianward.com">brian@brianward.com</a> directly.
+    </div>
+    <form class="contact-form" action="https://www.brianward.com/api/contact" method="post">
       <input type="hidden" name="source" value="ocvaluepro.com">
       <input type="hidden" name="website" value="https://www.ocvaluepro.com">
       <input type="hidden" name="submitted-from" value="OC Value Pro — www.ocvaluepro.com (Orange County date-of-death appraisals)">
@@ -225,5 +233,18 @@
 <div class="wrap foot-legal">&copy; 2026 Brian Ward Appraisal. All rights reserved. California Certified Residential Real Estate Appraiser &middot; License No. AR036053 &middot; A sister site of <a href="https://www.brianward.com" rel="nofollow">brianward.com</a>.</div>
 </footer>
 <script src="main.js"></script>
+<script>
+(function () {
+  var status = new URLSearchParams(window.location.search).get('status');
+  var el = null;
+  if (status === 'success') el = document.getElementById('form-success');
+  else if (status === 'error') el = document.getElementById('form-error');
+  if (!el) return;
+  el.style.display = 'block';
+  var form = document.querySelector('form[action*="api/contact"]');
+  if (form && status === 'success') form.style.display = 'none';
+  el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+})();
+</script>
 </body>
 </html>
